@@ -1,0 +1,628 @@
+{
+  "vikings.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "lids.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer)."
+  ],
+  "wnep.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer)."
+  ],
+  "washingtonpost.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "usa.gov": [
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "theatlantic.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "archives.gov": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "timeinc.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "gawker.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "voxmedia.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer)."
+  ],
+  "liquor.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "fool.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "sidearmsports.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "cincymuseum.org": [
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer)."
+  ],
+  "rockstargames.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "style.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website."
+  ],
+  "foodallergy.org": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "walmart.com": [
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer)."
+  ],
+  "adweek.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer)."
+  ],
+  "post-gazette.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "dailynews.com": [
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "austincc.edu": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website."
+  ],
+  "buffalowildwings.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "sciencemag.org": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "internetbrands.com": [
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "thefreedictionary.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "taylorswift.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "honda.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "foxsports.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "fortune.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "esquire.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "neworleansonline.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "imdb.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "dailyillini.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "gamestop.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "msn.com": [
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "citizen.org": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "newsbusters.org": [
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "military.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "jibjab.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "zacks.com": [
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "nbcuniversal.com": [
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website."
+  ],
+  "instagram.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "meredith.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "abcnews.com": [
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "steampowered.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "kaleidahealth.org": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer)."
+  ],
+  "mohegansun.com": [
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "tgifridays.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "barnesandnoble.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "redorbit.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "thehill.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "kraftrecipes.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way."
+  ],
+  "minecraft.gamepedia.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "highgearmedia.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website."
+  ],
+  "tulsaworld.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "ticketmaster.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "amazon.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS."
+  ],
+  "allstate.com": [
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "sheknows.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "sci-news.com": [
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "geocaching.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "nytimes.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "lodgemfg.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "sports-reference.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way."
+  ],
+  "reddit.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website."
+  ],
+  "chasepaymentech.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "cariboucoffee.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way."
+  ],
+  "everydayhealth.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer)."
+  ],
+  "reference.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "google.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "freep.com": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "uh.edu": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way."
+  ],
+  "stlouisfed.org": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "ocregister.com": [
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS."
+  ],
+  "ironhorsevineyards.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "playstation.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "disinfo.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "miaminewtimes.com": [
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "www.loc.gov": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "cbsinteractive.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way."
+  ],
+  "communitycoffee.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "fredericknewspost.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way."
+  ],
+  "earthkam.org": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is stored securely, e.g. in an encrypted format or database."
+  ],
+  "aol.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS."
+  ],
+  "abita.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "latinpost.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website."
+  ],
+  "gwdocs.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way."
+  ],
+  "ted.com": [
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "boardgamegeek.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website."
+  ],
+  "yahoo.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "bankofamerica.com": [
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "dcccd.edu": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "washingtonian.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "si.edu": [
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "pbs.org": [
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "randomhouse.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "dairyqueen.com": [
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way."
+  ],
+  "lynda.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "A user can edit their information, within the scope of unspecified user information.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "The company/organization has a privacy or security program/organization in place addressing, for example, how to protect data against unauthorized access or privacy training for employees."
+  ],
+  "sltrib.com": [
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "Data is accessible to employees/third parties on a need-to-know basis."
+  ],
+  "wsmv.com": [
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ],
+  "enthusiastnetwork.com": [
+    "The policy makes specific provisions for international audiences, non-US citizens, or non-European citizens (e.g., about international data transfer).",
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "Data is accessible to employees/third parties on a need-to-know basis.",
+    "Data is stored securely, e.g. in an encrypted format or database.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website.",
+    "The site collects your cookies or tracking elements for analytics or research. Collection happens on the website."
+  ],
+  "coffeereview.com": [
+    "The site collects your IP address or device IDs for an unspecified purpose. Collection happens when you implicitly provide information on the website."
+  ],
+  "mlb.mlb.com": [
+    "Data transfer between user and website/app is encrypted, e.g., SSL, TLS, HTTPS.",
+    "The site collects your unspecified information for analytics or research. Collection happens in an unspecified way.",
+    "The site collects your unspecified information for a basic service or feature. Collection happens in an unspecified way.",
+    "A user can edit their information, within the scope of unspecified user information."
+  ]
+}

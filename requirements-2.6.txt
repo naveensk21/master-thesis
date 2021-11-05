@@ -1,0 +1,3 @@
+tensorflow==2.6.0
+kashgari
+tensorflow_addons==0.14.0
